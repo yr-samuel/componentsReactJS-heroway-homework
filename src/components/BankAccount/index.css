@@ -1,0 +1,38 @@
+.inBtn{
+    margin: 15px 0 10px 0;
+}
+
+.inputValue{
+    height: 30px;
+    width: 200px;
+    border:none;
+    margin-right: 10px;
+}
+
+.inputValue:focus,
+.btnDeposit:focus{
+    outline: none;
+}
+
+.btnDeposit{
+    height: 30px;
+    border: none;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+.value{
+    margin: 10px 0;
+}
+
+.btnShow{
+    height: 30px;
+    width: 80px;
+    border: none;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+.btnShow:focus{
+    outline: none;
+}
