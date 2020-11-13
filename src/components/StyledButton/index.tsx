@@ -15,7 +15,7 @@ function StyledButton(props: IStyledButton){
 
     return (
         <div className="momDiv">
-            Custom Button
+            Botão Customizado
             <button className="btn" style={Object.assign({}, backgroundColor)}>{props.text}</button>
         </div>
     );
