@@ -1,3 +1,10 @@
+# Componentes em ReactJS
+
+![image](https://user-images.githubusercontent.com/64391583/99097824-eb7c4e80-25b6-11eb-9ff4-05b6df104540.png)
+
+<p> A esquerda temos o componente <strong>BankAccount</strong>, onde podemos digitar um valor e somá-lo ao valor exibido, a direita temos o componente <strong>StyledButton</strong>, que quando abrimos a tag dele podemos passar valores e assim customizá-lo.<p>
+<br></br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
